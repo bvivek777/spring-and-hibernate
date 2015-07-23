@@ -22,7 +22,7 @@ method
 A servlet is provided to run it as a web application. The project has to built using a maven build
 and has to be deployed on a server. Only tomcat7 plugin has been provided in the project.
 Once tomcat7 starts running and browser is opened the localhost:<port-number>/<project-name>
-will display the welcome page provided in the webapps forlder in src. A "<a href>" tag has been provided to
+will display the welcome page provided in the webapps forlder in src. A a href tag has been provided to
 the servlet which displays the list of countries
 
 
